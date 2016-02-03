@@ -1,13 +1,12 @@
 ---
-description: na
-keywords: na
 title: FastTrack Center Benefit for Enterprise Mobility Suite
-search: na
-ms.date: 2015-10-30
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
-ms.author: elizapo@microsoft.com
+author: Lizap
 robots: nofollow
 ---
 # FastTrack Center Benefit for Enterprise Mobility Suite

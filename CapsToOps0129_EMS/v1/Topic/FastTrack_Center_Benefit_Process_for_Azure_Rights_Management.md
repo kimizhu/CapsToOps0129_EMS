@@ -1,9 +1,8 @@
 ---
-description: na
-keywords: na
 title: FastTrack Center Benefit Process for Azure Rights Management
-search: na
-ms.date: 2015-11-25
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 4d85708b-a837-4865-aef9-0dd4488b23e9

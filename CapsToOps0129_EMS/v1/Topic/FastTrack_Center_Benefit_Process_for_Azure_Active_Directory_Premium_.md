@@ -1,9 +1,8 @@
 ---
-description: na
-keywords: na
 title: FastTrack Center Benefit Process for Azure Active Directory Premium 
-search: na
-ms.date: 2015-11-25
+ms.custom: na
+ms.reviewer: na
+ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: f1e8d94d-ce42-4d4c-a25b-0f28b93a9e10
