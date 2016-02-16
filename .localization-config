@@ -1,0 +1,11 @@
+{
+  "Locales": [
+    "de-DE"
+  ],
+  "Files": [
+    "CapsToOps0129_EMS/**/*.md",
+    "CapsToOps0129_EMS/*.md"
+  ],
+  "IncludeDependencies": true,
+  "AutoPush": true
+}
