@@ -1,6 +1,7 @@
 {
   "Locales": [
-    "de-DE"
+    "de-DE",
+    "es-ES"
   ],
   "Files": [
     "CapsToOps0129_EMS/**/*.md",
